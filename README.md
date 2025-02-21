@@ -1,4 +1,5 @@
-💼 Customer Segmentation Project
+## 💼 Customer Segmentation Project
+
 This is a Customer Segmentation project that clusters customers based on their purchasing behavior and demographic attributes like age, annual income, and spending score. It utilizes machine learning techniques to identify distinct customer groups for targeted marketing strategies.
 
 🚀 Features
